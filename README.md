@@ -8,7 +8,7 @@ This project aims to study spending behaviour of customers based on their credit
 3. Supporters: LOW BALANCE, HIGH PURCHASE
 4. Fans: HIGH PURCHASE
 
-These customer segments aide us in executing different market strategy for different individuals, which ultimately lines up with every firm's aim of increasing customer satisfaction and brand loyality.
+These customer segments aid us in executing different marketing strategy for different individuals, which ultimately lines up with every firm's aim of increasing customer satisfaction and brand loyalty.
 
 ## Software
 
